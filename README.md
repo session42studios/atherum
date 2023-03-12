@@ -1,5 +1,8 @@
 # Atherum Anti-Alt
 
+![atherum social banner](https://user-images.githubusercontent.com/123190451/224545432-d8106146-2ff7-4557-b512-9fb8cfe32208.png)
+
+
 Atherum is a brand-new ROBLOX alternate account detection system developed and maintained by Session 42 Studios. Atherum aims to detect as many alternate accounts as possible with a high-efficiency rate.
 
 We are confident that 80-90% of ROBLOX’s ToS-breakers, such as exploiters, trollers, spammers, raiders, bots, etc. are alternate accounts. People have been trying to combat those people with different methods, but what if we fight the source of it? What if we detect those accounts before they even get to try to ruin the gameplay?
